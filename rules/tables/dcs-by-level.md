@@ -94,47 +94,47 @@ aliases: ["DCs by Level"]
   <td>50</td>
 </tr>
 <tr>
-  <th colspan="2"></th>
+  <th colspan="2">Spell Level</th>
   <th colspan="1">DC</th>
 </tr>
 <tr>
-  <td colspan="2"></td>
+  <td colspan="2">1</td>
   <td colspan="1">15</td>
 </tr>
 <tr>
-  <td colspan="2"></td>
+  <td colspan="2">2</td>
   <td colspan="1">18</td>
 </tr>
 <tr>
-  <td colspan="2"></td>
+  <td colspan="2">3</td>
   <td colspan="1">20</td>
 </tr>
 <tr>
-  <td colspan="2"></td>
+  <td colspan="2">4</td>
   <td colspan="1">23</td>
 </tr>
 <tr>
-  <td colspan="2"></td>
+  <td colspan="2">5</td>
   <td colspan="1">26</td>
 </tr>
 <tr>
-  <td colspan="2"></td>
+  <td colspan="2">6</td>
   <td colspan="1">28</td>
 </tr>
 <tr>
-  <td colspan="2"></td>
+  <td colspan="2">7</td>
   <td colspan="1">31</td>
 </tr>
 <tr>
-  <td colspan="2"></td>
+  <td colspan="2">8</td>
   <td colspan="1">34</td>
 </tr>
 <tr>
-  <td colspan="2"></td>
+  <td colspan="2">9</td>
   <td colspan="1">36</td>
 </tr>
 <tr>
-  <td colspan="2"></td>
+  <td colspan="2">10</td>
   <td colspan="1">39</td>
 </tr>
 </table>

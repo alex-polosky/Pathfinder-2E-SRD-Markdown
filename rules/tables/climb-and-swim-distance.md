@@ -12,7 +12,8 @@ This table provides a quick reference for how far you can move with a [Climb](ru
 
 <table>
 <tr>
-  <th colspan="2"></th>
+  <th></th>
+  <th colspan="2">Climb Distance</th>
   <th colspan="2">Swim Distance</th>
 </tr>
 <tr>
