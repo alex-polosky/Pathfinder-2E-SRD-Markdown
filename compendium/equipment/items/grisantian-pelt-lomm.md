@@ -18,11 +18,11 @@ This supernaturally tough animal skin is gold and shines in sunlight. It can be 
 | Grisantian Pelt Items |  |  |  |
 |-----------------------|--|--|--|
 | **Thin Items** | Hardness | HP | BT |
-| multiRow |  |
-| multiRow |  |
+| Standard-grade | 6 | 24 | 12 |
+| High-grade | 8 | 32 | 16 |
 | **Items** | Hardness | HP | BT |
-| multiRow |  |
-| multiRow |  |
+| Standard-grade | 9 | 36 | 18 |
+| High-grade | 11 | 44 | 22 |
 
 
 *Source: Lost Omens: Monsters of Myth p. 35*

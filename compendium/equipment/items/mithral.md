@@ -18,14 +18,14 @@ Mithral is renowned for its lightness, durability, and effectiveness against a r
 | Mithral Items | Hardness | HP | BT |
 |---------------|----------|----|----|
 | **Thin Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
+| Standard-grade | 5 | 20 | 10 |
+| High-grade | 8 | 32 | 16 |
 | **Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
+| Standard-grade | 9 | 36 | 18 |
+| High-grade | 12 | 48 | 24 |
 | **Structures** |  |  |  |
-| multiRow |  |
-| multiRow |  |
+| Standard-grade | 18 | 72 | 36 |
+| High-grade | 24 | 96 | 48 |
 
 
 *Source: Core Rulebook p. 579*

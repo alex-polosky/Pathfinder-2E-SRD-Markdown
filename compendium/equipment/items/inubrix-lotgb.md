@@ -18,14 +18,14 @@ This pale, malleable metal's unusual molecular structure allows it to partially 
 | Inubrix Items | Hardness | HP | BT |
 |---------------|----------|----|----|
 | **Thin Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
+| Standard-grade | 4 | 16 | 8 |
+| High-grade | 7 | 28 | 14 |
 | **Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
+| Standard-grade | 8 | 32 | 16 |
+| High-grade | 11 | 44 | 22 |
 | **Structures** |  |  |  |
-| multiRow |  |
-| multiRow |  |
+| Standard-grade | 17 | 68 | 34 |
+| High-grade | 23 | 92 | 46 |
 
 
 *Source: Lost Omens: The Grand Bazaar p. 98*

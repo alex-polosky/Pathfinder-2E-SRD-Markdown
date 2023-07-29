@@ -19,17 +19,17 @@ Cold iron looks like normal iron but is mined from particularly pure sources and
 | Cold Iron Items | Hardness | HP | BT |
 |-----------------|----------|----|----|
 | **Thin Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
-| multiRow |  |
+| Low-grade | 5 | 20 | 10 |
+| Standard-grade | 7 | 28 | 14 |
+| High-grade | 10 | 40 | 20 |
 | **Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
-| multiRow |  |
+| Low-grade | 9 | 36 | 18 |
+| Standard-grade | 11 | 44 | 22 |
+| High-grade | 14 | 56 | 28 |
 | **Structures** |  |  |  |
-| multiRow |  |
-| multiRow |  |
-| multiRow |  |
+| Low-grade | 18 | 72 | 36 |
+| Standard-grade | 22 | 88 | 44 |
+| High-grade | 28 | 112 | 56 |
 
 
 *Source: Core Rulebook p. 578*

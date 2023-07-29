@@ -26,11 +26,11 @@ The hide and scales of a dragon can be used to [Craft](rules/actions/craft.md) a
 | Dragonhide Items | Hardness | HP | BT |
 |------------------|----------|----|----|
 | **Thin Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
+| Standard-grade | 4 | 16 | 8 |
+| High-grade | 8 | 32 | 16 |
 | **Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
+| Standard-grade | 7 | 28 | 14 |
+| High-grade | 11 | 44 | 22 |
 
 
 *Source: Core Rulebook p. 579*

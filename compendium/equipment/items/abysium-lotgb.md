@@ -18,14 +18,14 @@ A blue-green metal with an eerie green luminescence, abysium radiates power that
 | Abysium Items | Hardness | HP | BT |
 |---------------|----------|----|----|
 | **Thin Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
+| Standard-grade | 6 | 24 | 12 |
+| High-grade | 10 | 40 | 20 |
 | **Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
+| Standard-grade | 10 | 40 | 20 |
+| High-grade | 13 | 52 | 26 |
 | **Structures** |  |  |  |
-| multiRow |  |
-| multiRow |  |
+| Standard-grade | 20 | 80 | 40 |
+| High-grade | 26 | 104 | 52 |
 
 
 *Source: Lost Omens: The Grand Bazaar p. 96*

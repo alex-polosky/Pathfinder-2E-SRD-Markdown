@@ -12,14 +12,14 @@ aliases: ["Services and Fare"]
 |---------|-------|
 | Bulletworks use (per hour) | 1 sp |
 | Bulletworks use (per day) | 1 gp |
-| multiRow |  |
-| multiRow |  |
-| multiRow |  |
+| Firearm services |  |
+| Cleaning (per gun) | 1 sp |
+| Repair (per day) | 1 gp |
 | Firing range (per day) | 2 sp |
-| multiRow |  |
-| multiRow |  |
-| multiRow |  |
-| multiRow |  |
+| Sleeping accommodations (per night) |  |
+| Taproom floor space | 5 cp |
+| Bed (for 1) | 3 sp |
+| Private room (for 2) | 1 gp |
 ^services-and-fare-6
 
 | Food | Price |

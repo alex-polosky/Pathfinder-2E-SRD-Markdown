@@ -18,14 +18,14 @@ Darkwood is a very lightweight wood found primarily in oldgrowth forests in sout
 | Darkwood Items | Hardness | HP | BT |
 |----------------|----------|----|----|
 | **Thin Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
+| Standard-grade | 5 | 20 | 10 |
+| High-grade | 8 | 32 | 16 |
 | **Items** |  |  |  |
-| multiRow |  |
-| multiRow |  |
+| Standard-grade | 7 | 28 | 14 |
+| High-grade | 10 | 40 | 20 |
 | **Structures** |  |  |  |
-| multiRow |  |
-| multiRow |  |
+| Standard-grade | 14 | 56 | 28 |
+| High-grade | 20 | 80 | 40 |
 
 
 *Source: Core Rulebook p. 578*

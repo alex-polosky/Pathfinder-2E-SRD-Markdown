@@ -18,11 +18,11 @@ The most rare and valuable skymetal, orichalcum is coveted for its incredible ti
 | Orichalcum Items | Hardness | HP | BT |
 |------------------|----------|----|----|
 | **Thin Items** |  |  |  |
-| multiRow |  |
+| High-grade | 16 | 64 | 32 |
 | **Items** |  |  |  |
-| multiRow |  |
+| High-grade | 18 | 72 | 36 |
 | **Structures** |  |  |  |
-| multiRow |  |
+| High-grade | 35 | 140 | 70 |
 
 
 *Source: Core Rulebook p. 579*
